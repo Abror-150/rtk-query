@@ -68,3 +68,4 @@ export default tseslint.config([
 ])
 ```
 # rtk-query
+# react-query
